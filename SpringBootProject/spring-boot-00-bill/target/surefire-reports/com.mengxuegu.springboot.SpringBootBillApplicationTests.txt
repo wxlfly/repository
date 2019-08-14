@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.mengxuegu.springboot.SpringBootBillApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 7.462 s <<< FAILURE! - in com.mengxuegu.springboot.SpringBootBillApplicationTests
+testBill(com.mengxuegu.springboot.SpringBootBillApplicationTests)  Time elapsed: 1.123 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.mengxuegu.springboot.SpringBootBillApplicationTests.testBill(SpringBootBillApplicationTests.java:56)
+
